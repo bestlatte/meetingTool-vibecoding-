@@ -15,7 +15,9 @@
 - 架構設計、API 規劃與錯誤處理由人主導
 - 強調快速迭代與長期可維護性
 
-## 🛠 技術棧
+## 底層技術
 - 前端：React + Tailwind
 - 後端：Java Spring Boot
-- AI：Google Gemini（多模態）
+- AI：Google Gemini
+
+
