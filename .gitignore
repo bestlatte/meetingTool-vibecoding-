@@ -1,0 +1,48 @@
+# =========================
+# ENV / Secrets
+# =========================
+.env
+.env.local
+.env.*.local
+
+# (optional) if you also use env inside frontend/backend
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# =========================
+# JetBrains (IntelliJ / WebStorm)
+# =========================
+.idea/
+*.iml
+
+# =========================
+# Node / React / Vite
+# =========================
+node_modules/
+dist/
+.vite/
+*.log
+
+# if you want to be explicit for your monorepo style:
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# =========================
+# Java / Spring Boot / Maven
+# =========================
+target/
+backend/target/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+
+
